@@ -1,0 +1,14 @@
+D:\dotnetFacisa\PII\PII.DATA\bin\Debug\net6.0\PII.DATA.deps.json
+D:\dotnetFacisa\PII\PII.DATA\bin\Debug\net6.0\PII.DATA.runtimeconfig.json
+D:\dotnetFacisa\PII\PII.DATA\bin\Debug\net6.0\PII.DATA.dll
+D:\dotnetFacisa\PII\PII.DATA\bin\Debug\net6.0\PII.DATA.pdb
+D:\dotnetFacisa\PII\PII.DATA\obj\Debug\net6.0\PII.DATA.csproj.AssemblyReference.cache
+D:\dotnetFacisa\PII\PII.DATA\obj\Debug\net6.0\PII.DATA.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnetFacisa\PII\PII.DATA\obj\Debug\net6.0\PII.DATA.AssemblyInfoInputs.cache
+D:\dotnetFacisa\PII\PII.DATA\obj\Debug\net6.0\PII.DATA.AssemblyInfo.cs
+D:\dotnetFacisa\PII\PII.DATA\obj\Debug\net6.0\PII.DATA.csproj.CoreCompileInputs.cache
+D:\dotnetFacisa\PII\PII.DATA\obj\Debug\net6.0\PII.DATA.dll
+D:\dotnetFacisa\PII\PII.DATA\obj\Debug\net6.0\refint\PII.DATA.dll
+D:\dotnetFacisa\PII\PII.DATA\obj\Debug\net6.0\PII.DATA.pdb
+D:\dotnetFacisa\PII\PII.DATA\obj\Debug\net6.0\PII.DATA.genruntimeconfig.cache
+D:\dotnetFacisa\PII\PII.DATA\obj\Debug\net6.0\ref\PII.DATA.dll
